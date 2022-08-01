@@ -20,8 +20,7 @@ The aim is to present a comparative study among those algorithms for solving TSP
 _(make sure you have downloaded Python or Anaconda on your computer to run the script)_
 
 3)  **Outputs:** _(read **TSP_workgroup_paper.pdf.pdf** for further information)_
-  - All the output routes found by the algorithms
-
+  - All the output routes found by the algorithms are in outputs.zip
 
 ### Best Europe Route found by the algorithm:
 ![image](https://user-images.githubusercontent.com/95027395/182051444-c522f9e5-31b6-48a6-97ca-25da81e40035.png)
